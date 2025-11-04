@@ -7,5 +7,5 @@
 
 int main() {
     printf("This is a simple C program.\n");
-    printf("change");
+    printf("change again");
 }
